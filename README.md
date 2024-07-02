@@ -20,6 +20,8 @@ The BBC News Classification project involves training and evaluating various Nai
 - **Test Set**: 557 articles
 - **Preprocessing**: Each column indicates the number of occurrences of a given word for a document instance.
 
+> **Note**: Due to the size of the dataset, it cannot be shared on GitHub. Please contact the project owner if you need access to the dataset.
+
 ## Tech Stack
 
 - **Programming Language**: Python
